@@ -59,7 +59,7 @@ The goal of this project is to build a machine learning model that predicts whet
 ├── data
 │   ├── titanic_dataset.csv  # Dataset used for this project
 ├── notebooks
-│   ├── titanic_survival.ipynb  # Jupyter Notebook with the full code
+│   ├── Task_1_Titanic_Survival_Prediction.ipynb  # Jupyter Notebook with the full code
 ├── models
 │   ├── titanic_model.pkl  # Saved Random Forest model
 ├── README.md  # Project documentation
